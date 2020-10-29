@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrankhan06" alt="imrankhan06" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iam_rkstr" target="blank"><img src="https://img.shields.io/twitter/follow/iam_rkstr?logo=twitter&style=for-the-badge" alt="iam_rkstr" /></a> </p>
-
-- 🔭 I’m currently working on **Fintech project(ETL)**
+- 🔭 I’m currently working on **FinTech Project(ETL using Apache Airflow)**
 
 - 🌱 I’m currently learning **ReactJs and Go**
+
+- 👯 I’m looking to collaborate on **Fullstack Development**
 
 - 💬 Ask me about **HTML5, CSS3, JQuery, Ajax, Python, MySQl, Mongodb, Postgresql, Flask, Django**
 
@@ -22,7 +22,7 @@
 <a href="https://twitter.com/iam_rkstr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iam_rkstr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/imran-khan-91995031" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/imran-khan-91995031" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12014479/imran-khan-m" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/12014479/imran-khan-m" height="30" width="40" /></a>
-<a href="https://fb.com/imrän khän" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="imrän khän" height="30" width="40" /></a>
+<a href="https://fb.com/immu1106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="immu1106" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_rkstr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="i_am_rkstr" height="30" width="40" /></a>
 <a href="https://medium.com/@immu1106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@immu1106" height="30" width="40" /></a>
 </p>
@@ -33,4 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrankhan06&show_icons=true&locale=en&layout=compact" alt="imrankhan06" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrankhan06&show_icons=true&locale=en" alt="imrankhan06" /></p>
-
